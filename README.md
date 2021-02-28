@@ -26,6 +26,3 @@ Complete desafios e suba de nível. De uma olhada aqui!
  ```
  yarn dev
  ```
-
-## 📄 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
